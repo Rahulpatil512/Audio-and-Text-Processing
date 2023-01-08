@@ -1,0 +1,26 @@
+Referrences:
+
+1) https://nptel.ac.in/courses/117/105/117105145/  :  Nptel Course about Digital Signal Processing by IIT Kharagpur(prof. SK Das Mandal)
+
+2) https://core.ac.uk/download/pdf/83592918.pdf  :  Design and Implementation of Text To Speech Conversion for Visually Impaired People By Covenant University(USA) 
+
+3) https://www.irjet.net/archives/V7/i5/IRJET-V7I5854.pdf  :  A REVIEW ON METHODS FOR SPEECH-TO-TEXT AND TEXT-TO-SPEECH
+CONVERSION By Inderprastha Engineering College, Ghaziabad(UP) 
+
+4) https://nptel.ac.in/courses/106/106/106106211/#  :  Nptel Course about Applied NLP by IIT Madras (Prof. Ramaseshan Ramchandran)
+
+(?) 5) https://freevideolectures.com/course/4193/nptel-multimodal-interaction/1  :  Course about Multimodal interaction by IIT  Madras (Prof. Dr.-Ing.Sebastian Moller)
+
+6) https://youtu.be/iNbOOgXjnzE  :  Video about how speech recognition works By Sam Stork
+
+7) https://iopscience.iop.org/  :  Evaluation methodology for Speech To Text Services similarity and speed characteristics focused on small size computers By J.E. Aguilar-Chacon and D.A. Segura-Torres
+
+8) http://ijarcet.org/  :  A REVIEW ON SPEECH TO TEXT CONVERSION METHODS By Miss.Prachi Khilari and Prof. Bhope V. P.
+
+9) https://www.youtube.com/watch?v=U0XtE4_QLXI  :  Video about A Basic Introduction to Speech Recognition (Hidden Markov Model & Neural Networks) By Hannes van Lier
+
+10) https://blogs.commons.georgetown.edu/cctp-607-spring2019/2019/05/01/the-ai-powers-behind-google-translate/  :  The AI Powers Behind Google Translate By Tianyi Zhao
+
+11)https://blogs.commons.georgetown.edu/cctp-607-spring2019/2019/05/01/the-ai-powers-behind-google-translate/
+
+  
